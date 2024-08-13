@@ -1,0 +1,12 @@
+
+=====Display Element=====
+1. inline (take only required space)
+2. block (take 100% space from left to right)
+
+
+======others tags========
+
+1. <section><?section>
+2.<div></div>
+3.<style></style>
+4.<script></scirpt>
